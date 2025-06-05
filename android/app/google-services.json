@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465625701891",
+    "project_id": "tallerflutter-70dc4",
+    "storage_bucket": "tallerflutter-70dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465625701891:android:472eb58bd82ae30a513836",
+        "android_client_info": {
+          "package_name": "com.example.mini_red_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTt1YA4Y_ZzwM4KNdO_QSas92Gr10X3a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
